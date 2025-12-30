@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I’m Manvi
 
-<!--
-**manvi-07/manvi-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student  
+💻 Exploring development & building projects  
+🌱 Currently learning and improving my skills step by step  
+✨ This repository powers my GitHub profile README  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About this space
+This is my *profile repository*, where I’ll:
+- Share what I’m learning
+- Track my progress
+- Experiment with ideas and projects
+
+I’m keeping things simple for now and will update this as I grow 🌱
+
+---
+
+📫 Reach me here on GitHub
